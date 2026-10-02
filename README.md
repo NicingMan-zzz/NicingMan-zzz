@@ -26,5 +26,5 @@ For private audits, security consulting, or apprenticeship opportunities, please
 
 | Date | Target | Category | Key Findings | Impact |
 | :--- | :--- | :--- | :--- | :--- |
-| May 2026 | wasapbot.my | Penetration Testing | Identified exposed REST API leaking marketing data and active legacy XML-RPC gateway[cite: 181, 183]. | Medium |
-| Aug 2025 | BH Private Group | OSINT Investigation | Identified unregistered bank, fabricated corporate identities, and a convicted fraudster CEO, halting a multi-million dollar transaction[cite: 170, 171]. | Critical |
+| May 2026 | wasapbot.my | Penetration Testing | Identified exposed REST API leaking marketing data and active legacy XML-RPC gateway. | Medium |
+| Aug 2025 | BH Private Group | OSINT Investigation | Identified unregistered bank, fabricated corporate identities, and a convicted fraudster CEO, halting a multi-million dollar transaction. | Critical |
