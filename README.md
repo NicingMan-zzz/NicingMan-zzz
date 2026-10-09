@@ -10,8 +10,8 @@ For private audits, security consulting, or apprenticeship opportunities, please
 ## Highlights
 - [Sherlock portfolio](https://audits.sherlock.xyz/watson/NicingMan)
 - Ranked #29 globally out of 3,307 submissions in the Metric Protocol audit.
-- Authored an OSINT report that uncovered a multi-million dollar Server-to-Server financial scam[cite: 170].
-- Executed production penetration testing for commercial infrastructure[cite: 181].
+- Authored an OSINT report that uncovered a multi-million dollar Server-to-Server financial scam].
+- Executed production penetration testing for commercial infrastructure.
 
 ## Public Audit Contests
 
