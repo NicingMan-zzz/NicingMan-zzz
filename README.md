@@ -1,8 +1,7 @@
 # NicingMan-zzz
+Hellu I'm a semi self-taught Smart Contract Security Researcher and Auditor, specializing in EVM architecture, vulnerability research, and PoC development using Foundry. I am actively seeking Web3 security apprenticeships.
 
-I'm a Smart Contract Security Researcher and Auditor, specializing in EVM architecture, vulnerability research, and PoC development using Foundry. I am actively seeking Web3 security apprenticeships.
-
-Previous Life: Threat & Infrastructure Analyst, specializing in OSINT and penetration testing.
+Previous Life: Threat & Infrastructure Analyst, specializing in OSINT and penetration testing. Spent some time in web3 circa 2021-2024 but more on the degen side lol
 
 For private audits, security consulting, or apprenticeship opportunities, please reach out to me on:
 - Email - NicingMan@proton.me
